@@ -158,7 +158,7 @@ InternLM is mainly developed by Shanghai AI Laboratory.
 
 ![create_step_7](./image/create_step_7.png)
 
-internlm2-7B-chat-demo应用体验地址：https://openxlab.org.cn/apps/detail/houshaowei/InternLM2-Chat-7B-demo
+internlm2-7B-chat-demo应用体验地址：https://openxlab.org.cn/apps/detail/houshaowei/SeaSageAI-chat-20b
 
 
 &nbsp; 
